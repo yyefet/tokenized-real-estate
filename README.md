@@ -22,4 +22,4 @@ payouts on rental income, and when to sell the property.
 
 # Get Started
 Since this is just a concept for the moment, *we URGE everyone interested to STAR and WATCH this repo*.
-Once we hit 100+ watchers, we will start initiate the process of finding attractive properties.
+Once we hit 100+ watchers, we will start to initiate the process of finding attractive properties.
