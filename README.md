@@ -1,5 +1,9 @@
 # GitInvestor.com
+
 Invest in Real Estate Openly and Fully Transparent
+
+![gitinvestor.com](https://github.com/yyefet/gitinvestor.com/blob/main/gitinvestor.png?raw=true)
+
 
 # About this project
 This project has been started to pool investments in real estate in a way
